@@ -19,3 +19,6 @@ This study area includes four wilderness areas located in the Roosevelt National
 * Use TensorFlow with Keras to build your classifier(s).
 * Use your knowledge of hyperparameter tuning to improve the performance of your model(s).
 * Test and analyze performance.
+
+
+***Final report in revision, to be added soon...***
